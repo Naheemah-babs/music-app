@@ -1,4 +1,2 @@
 simple_django_project
 songcrud/db.sqlite3
-SECRET_KEY = 'django-insecure-ekape3&8g-zrhuidz=dk!vbmtxi^%im4wdq+k6@pped_bw=3ql'
-settings.py
