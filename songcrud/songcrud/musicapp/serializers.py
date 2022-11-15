@@ -14,4 +14,6 @@ class SongSerializer(serializers.ModelSerializer):
 class LyricSerializer(serializers.ModelSerializer):
     class Meta:
         model = Lyric
-        fields = ['id', 'content'] 
+        fields = ['id', 'content']
+    
+        
